@@ -20,7 +20,12 @@ car1.kind = "convertible"
 car1.color = "red"
 car1.value = 60000.00
 
-# car2 = Vehi
+car2 = Vehicle()
+
+car2.name = "Jump"
+car2.kind = "van"
+car2.color = "blue"
+car2.value = 10000.00
 
 print(car1.description())
-# print(car2.description())
+print(car2.description())
