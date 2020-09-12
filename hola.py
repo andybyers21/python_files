@@ -7,8 +7,9 @@ window = tk.Tk()
 window.title("pynotes")
 window.geometry("500x500")
 
-
 # entry function
+
+
 def phrase_generator():
 
     phrases = [
