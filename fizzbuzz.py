@@ -1,4 +1,4 @@
-for a in range(0, 100):
+for a in range(1, 101):
     if a % 3 == 0 and a % 5 == 0:
         print("FIZZBUZZ")
     elif a % 3 == 0:
@@ -7,5 +7,4 @@ for a in range(0, 100):
         print("BUZZ")
     else:
         print(a)
-
         a += 1
