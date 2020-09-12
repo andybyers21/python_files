@@ -7,4 +7,4 @@ for a in range(1, 101):
         print("BUZZ")
     else:
         print(a)
-        a += 1
+    a += 1
