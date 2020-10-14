@@ -21,3 +21,5 @@ while True:
     if b == 210:
         break
     t.hideturtle()
+
+turtle.done()
