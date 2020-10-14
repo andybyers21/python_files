@@ -1,4 +1,4 @@
-def fizzle(x, y):
+def fizz(x, y):
     for a in range(x, y):
         if a % 3 == 0 and a % 5 == 0:
             print("FIZZBUZZ")
@@ -10,4 +10,4 @@ def fizzle(x, y):
             print(a)
 
 
-fizzle(1, 50)
+fizz(1, 50)
