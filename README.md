@@ -1,6 +1,6 @@
 # Python Files
 
-Some short scripts I wrote to test out my Python skills and
+Some short scripts I wrote to test out my Python skills.
 
 ## fizzbuzz.py
 
