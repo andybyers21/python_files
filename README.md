@@ -10,6 +10,10 @@ Obvious description is obvious.
 
 Real simple. Takes a user input and tells you whether it's odd or even.
 
+## divisors.py
+
+Asks the user for a number and then prints out a list of all the divisors of that number.
+
 ## hola.py
 
 A tkinter phrase generator that will say hello to you in 30 different languages.
