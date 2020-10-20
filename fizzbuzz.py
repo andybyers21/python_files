@@ -1,5 +1,5 @@
-def fizzle(x, y):
-    for a in range(x, y):
+def fizzle(y):
+    for a in range(1, (y + 1)):
         if a % 3 == 0 and a % 5 == 0:
             print("FIZZBUZZ")
         elif a % 3 == 0:
@@ -10,4 +10,6 @@ def fizzle(x, y):
             print(a)
 
 
-fizzle(1, 50)
+y = int(input('how many fizzbuzzes? '))
+
+fizzle(y)
