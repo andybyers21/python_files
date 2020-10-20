@@ -6,6 +6,10 @@ Some short scripts I wrote to test out my Python skills.
 
 Obvious description is obvious.
 
+## list-overlap.py
+
+Randomly generate two lists. Returns a list that contains only the elements that are common between the lists (without duplicates).
+
 ## odd-even.py
 
 Real simple. Takes a user input and tells you whether it's odd or even.
