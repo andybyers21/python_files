@@ -6,6 +6,10 @@ Some short scripts I wrote to test out my Python skills.
 
 Obvious description is obvious.
 
+## odd-even.py
+
+Real simple. Takes a user input and tells you whether it's odd or even.
+
 ## hola.py
 
 A tkinter phrase generator that will say hello to you in 30 different languages.
