@@ -7,4 +7,4 @@ def password(len, chars=string.ascii_letters + string.digits + string.punctuatio
     return "".join(random.choice(chars) for _ in range(len))
 
 
-print(password(int(input('How many characters in your password?'))))
+print(password(int(input('How many characters in your password? '))))

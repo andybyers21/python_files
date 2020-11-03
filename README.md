@@ -2,21 +2,17 @@
 
 Some short scripts I wrote to test out my Python skills.
 
+## divisors.py
+
+Asks the user for a number and then prints out a list of all the divisors of that number.
+
 ## fizzbuzz.py
 
 Obvious description is obvious.
 
-## list-overlap.py
+## frequency.py
 
-Randomly generate two lists. Returns a list that contains only the elements that are common between the lists (without duplicates).
-
-## odd-even.py
-
-Real simple. Takes a user input and tells you whether it's odd or even.
-
-## divisors.py
-
-Asks the user for a number and then prints out a list of all the divisors of that number.
+Calculate the frequency of words in a given document.
 
 ## hola.py
 
@@ -29,6 +25,14 @@ Calculates if a given year is a leap year
 ## less-than.py
 
 Creates a random list of integers. Then takes a user input int and returns a list of all the elements in the random list that are less than the user input.
+
+## list-overlap.py
+
+Randomly generate two lists. Returns a list that contains only the elements that are common between the lists (without duplicates).
+
+## odd-even.py
+
+Real simple. Takes a user input and tells you whether it's odd or even.
 
 ## one_hundred.py
 
